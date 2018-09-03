@@ -1,20 +1,5 @@
 # vue-mobile-viewer
 
-> A Vue.js project
+> Iframe with mobile viewer for vue applications or external web sites
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
 ![Image of Yaktocat](src/assets/screenshots/1.png)
