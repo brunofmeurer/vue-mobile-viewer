@@ -1,7 +1,6 @@
+# teste
 
-# vue-mobile-viewer
-
-> Iframe with mobile viewer for vue applications or external web sites
+> A Vue.js project
 
 ## Build Setup
 
