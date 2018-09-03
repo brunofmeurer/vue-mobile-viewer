@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# vue-mobile-viewer
-iframe with mobile viewer for vue applications or external web sites
-=======
+
 # mobile-viewer
 
 > A Vue.js project
@@ -23,4 +20,3 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
->>>>>>> first
