@@ -1,7 +1,7 @@
 
-# mobile-viewer
+# vue-mobile-viewer
 
-> A Vue.js project
+> Iframe with mobile viewer for vue applications or external web sites
 
 ## Build Setup
 
