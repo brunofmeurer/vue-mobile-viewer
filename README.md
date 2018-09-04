@@ -35,9 +35,7 @@ export default {
 
 ### Android
 ```
-<iframe src="https://brunofmeurer.github.io/vue-mobile-viewer/#/
-device?type=android
-&url=https%3A%2F%2Funion.co%2F"
+<iframe src="https://brunofmeurer.github.io/vue-mobile-viewer/#/device?type=android&url=https%3A%2F%2Funion.co%2F"
     frameborder="0"
     scrolling="no"
     width="450px"
@@ -48,9 +46,7 @@ device?type=android
 
 ### IOS
 ```
-<iframe src="https://brunofmeurer.github.io/vue-mobile-viewer/#/
-device?type=apple
-&url=https%3A%2F%2Funion.co%2F"
+<iframe src="https://brunofmeurer.github.io/vue-mobile-viewer/#/device?type=apple&url=https%3A%2F%2Funion.co%2F"
     frameborder="0"
     scrolling="no"
     width="450px"
@@ -63,6 +59,6 @@ device?type=apple
 > I totally relied on a docs quasar api [QUASAR DOC](http://quasar-framework.org/components/toolbar.html)
 
 ## License
-Copyright (c) 2016-present Razvan Stoenescu
+Copyright (c) 2018-present Bruno Meurer
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
