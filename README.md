@@ -56,3 +56,11 @@ device?type=apple
     allowtransparency="yes"
 />
 ```
+
+## Credits
+> I totally relied on a docs quasar api [QUASAR DOC](http://quasar-framework.org/components/toolbar.html)
+
+## License
+Copyright (c) 2016-present Razvan Stoenescu
+
+[MIT License](http://en.wikipedia.org/wiki/MIT_License)
