@@ -2,6 +2,8 @@
 
 > Iframe with mobile viewer for vue applications or external web sites
 
+[![npm version](https://badge.fury.io/js/vue-mobile-viewer.svg)](https://badge.fury.io/js/vue-mobile-viewer)
+
 ![Image of Yaktocat](src/assets/screenshots/1.png)
 
 # Install

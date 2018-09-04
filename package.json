@@ -4,6 +4,7 @@
   "description": "iframe with mobile viewer for vue applications or external web sites",
   "author": "Bruno Meurer <brunofmeurer@gmail.com>",
   "private": false,
+  "licence": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
