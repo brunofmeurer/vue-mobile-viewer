@@ -10,6 +10,25 @@
 ```
 npm install --save vue-mobile-viewer
 ```
+## Use
+```
+<template>
+  <viewer :device="picked" :url="url"/>
+</template>
+import Viewer from 'vue-mobile-viewer'
+export default {
+  components: {
+    Viewer
+  },
+  data: {
+    return {
+      url: 'https://union.co/',
+      picked: 'android' //android or apple
+    }
+  }
+}
+```
+
 ## External page
 
 ### Android
