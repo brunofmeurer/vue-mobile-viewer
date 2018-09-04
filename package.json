@@ -1,6 +1,6 @@
 {
   "name": "vue-mobile-viewer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "iframe with mobile viewer for vue applications or external web sites",
   "author": "Bruno Meurer <brunofmeurer@gmail.com>",
   "private": false,
