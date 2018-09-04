@@ -4,7 +4,7 @@
 
 [![npm version](https://badge.fury.io/js/vue-mobile-viewer.svg)](https://badge.fury.io/js/vue-mobile-viewer)
 
-![Image of Yaktocat](src/assets/screenshots/1.png)
+![Image of mobile](https://github.com/brunofmeurer/vue-mobile-viewer/blob/master/src/assets/screenshots/1.png?raw=true)
 
 # Install
 
