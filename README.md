@@ -12,7 +12,7 @@
 ```
 npm install --save vue-mobile-viewer
 ```
-## Use
+## Usage
 ```
 <template>
   <viewer :device="picked" :url="url"/>
